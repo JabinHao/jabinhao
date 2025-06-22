@@ -1,7 +1,7 @@
 # 🚀 Hi there, I'm Jabin Hao! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Docker+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+Enthusiast;Python+%26+Shell+Scripting;Docker+%26+NAS+Hobbyist;Photography+%26+Travel+Lover;Always+Exploring+New+Tech" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,21 +13,31 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const JabinHao = {
-    pronouns: "He/Him",
-    location: "China 🇨🇳",
-    currentFocus: ["Full Stack Development", "Docker", "Cloud Computing"],
-    technologies: {
-        languages: ["JavaScript", "Python", "Java", "Go"],
-        frameworks: ["React", "Vue.js", "Django", "Spring Boot"],
-        databases: ["MySQL", "PostgreSQL", "Redis", "MongoDB"],
-        tools: ["Docker", "Git", "Linux", "AWS", "Kubernetes"],
-        currentlyLearning: ["Machine Learning", "Rust", "WebAssembly"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    motto: "Code is poetry, and I'm a poet! 🎨"
-};
+```java
+public class JabinHao {
+    
+    private String role = "Backend Developer";
+    private String primaryLanguage = "Java"; // 生存所需 😄
+    private String[] otherLanguages = {"Python", "Shell"};
+    private String location = "China 🇨🇳";
+    
+    private Map<String, List<String>> interests = Map.of(
+        "coding", List.of("Java", "Python", "Shell", "Vue.js"),
+        "infrastructure", List.of("Docker", "NAS", "Linux"),
+        "lifestyle", List.of("Photography 📸", "Travel 🌍", "Tech Gadgets")
+    );
+    
+    private String[] currentlyExploring = {
+        "Microservices Architecture", 
+        "Container Orchestration",
+        "Home Lab Setup",
+        "Vue.js Frontend"
+    };
+    
+    public String getMotto() {
+        return "Code for living, explore for passion! 🎯";
+    }
+}
 ```
 
 ---
@@ -55,41 +65,51 @@ const JabinHao = {
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Backend Development (Main Focus)
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
 </p>
 
-### Frontend
+### Scripting & Automation
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
+</p>
+
+### Frontend Interests
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Backend & Database
+### Database & Storage
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### DevOps & Tools
+### DevOps & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+### Home Lab & NAS
+<p>
+  <img src="https://img.shields.io/badge/Synology-B6B6B6?style=for-the-badge&logo=synology&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
@@ -102,12 +122,40 @@ const JabinHao = {
 
 ---
 
-## 🔥 Recent Projects
+## 🔥 Featured Projects
 
 ### 🐳 [Docker Compose Collection](https://github.com/JabinHao/docker-compose-collection)
-A curated collection of Docker Compose files for quick deployment of common services
+A curated collection of Docker Compose files for quick deployment of common services and applications
 - **Tech**: Docker, Docker Compose, DevOps
-- **Features**: MySQL, Redis, Kafka configurations with documentation
+- **Services**: MySQL, Redis, Kafka with comprehensive documentation
+- **Purpose**: Simplify development environment setup
+
+### 🏠 Home Lab Projects
+- **NAS Configuration**: Personal cloud storage and media server
+- **Container Management**: Docker-based service deployment
+- **Automation Scripts**: Python and Shell scripts for system maintenance
+
+---
+
+## 🎯 Current Focus
+
+- 🔧 **Backend Development**: Building scalable Java applications
+- 🐳 **Containerization**: Docker ecosystem and orchestration
+- 🏠 **Home Lab**: NAS setup and self-hosted services
+- 🎨 **Frontend Learning**: Exploring Vue.js for full-stack capabilities
+- 📸 **Photography**: Capturing moments during travels
+
+---
+
+## 📸 Photography & Travel
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Canon-8C1004?style=for-the-badge&logo=Canon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Travel-🌍-brightgreen?style=for-the-badge"/>
+</div>
+
+*"The world is a book, and those who do not travel read only one page."* 📖✈️
 
 ---
 
@@ -127,14 +175,30 @@ A curated collection of Docker Compose files for quick deployment of common serv
 
 ---
 
-## 🎯 Fun Facts
+## 🎪 Fun Facts
 
-- 🔭 Currently working on microservices architecture
-- 🌱 Learning Rust and WebAssembly
-- 💡 Love contributing to open source projects
-- 🎮 Gaming enthusiast in spare time
-- 📚 Always reading tech blogs and documentation
-- ☕ Coffee lover - debugging works better with coffee!
+- ☕ **Coffee-driven developer** - Best code happens after the third cup
+- 🔭 **Tech Explorer** - Always tinkering with new technologies
+- 🏠 **Home Lab Enthusiast** - Building my own mini data center
+- 📸 **Weekend Photographer** - Capturing life through the lens
+- 🌍 **Travel Addict** - Collecting memories from different places
+- 🐧 **Linux Lover** - Terminal is my second home
+- 🎮 **Gaming in downtime** - When not coding or traveling
+- 📚 **Continuous Learner** - Tech blogs and documentation are my novels
+
+---
+
+## 💡 Life Philosophy
+
+```bash
+#!/bin/bash
+# Life motto
+echo "Code for living 💻"
+echo "Learn for growing 📚" 
+echo "Travel for experiencing 🌍"
+echo "Capture for remembering 📸"
+echo "Share for connecting 🤝"
+```
 
 ---
 
@@ -145,5 +209,5 @@ A curated collection of Docker Compose files for quick deployment of common serv
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/JabinHao">JabinHao</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/JabinHao">JabinHao</a> - Backend Developer by Day, Tech Explorer by Night 🌙</i>
 </div>
