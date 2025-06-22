@@ -17,9 +17,9 @@
 public class JabinHao {
     
     private String role = "Backend Developer";
-    private String primaryLanguage = "Java"; // 生存所需 😄
+    private String primaryLanguage = "Java"; // My bread and butter 😄
     private String[] otherLanguages = {"Python", "Shell"};
-    private String location = "China 🇨🇳";
+    private String location = "🇨🇳";
     
     private Map<String, List<String>> interests = Map.of(
         "coding", List.of("Java", "Python", "Shell", "Vue.js"),
