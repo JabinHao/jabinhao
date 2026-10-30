@@ -131,7 +131,7 @@ A curated collection of Docker Compose files for quick deployment of common serv
 
 ## 🎯 Current Focus
 
-- 🤖 **AI Coding**: Building with AI coding agents and refining AI-assisted development workflows
+- 🤖 **AI-Assisted Development**: Integrating AI into everyday coding and problem-solving
 - 🐳 **Containerization**: Docker ecosystem and orchestration
 - 🏠 **Home Lab**: NAS setup and self-hosted services
 - 🎨 **Frontend Learning**: Exploring Vue.js for full-stack capabilities
