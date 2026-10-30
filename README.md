@@ -17,6 +17,7 @@
 public class JabinHao {
     
     private String role = "Backend Developer";
+    private String experience = "Engagement systems across gaming and fintech";
     private String primaryLanguage = "Java"; // My bread and butter 😄
     private String[] otherLanguages = {"Python", "Shell"};
     private String location = "🇨🇳";
@@ -79,6 +80,9 @@ public class JabinHao {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI-assisted development"/>
+  <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" alt="Meilisearch"/>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
   <img src="https://img.shields.io/badge/RSS_%2F_OPML-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Content_Processing-2EA44F?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
@@ -150,9 +154,6 @@ A curated collection of Docker Compose files for quick deployment of common serv
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:haojipeng@bilibili.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://github.com/JabinHao">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
