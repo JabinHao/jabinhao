@@ -131,7 +131,7 @@ A curated collection of Docker Compose files for quick deployment of common serv
 
 ## 🎯 Current Focus
 
-- 🔧 **Backend Development**: Building scalable Java applications
+- 🤖 **AI Coding**: Building with AI coding agents and refining AI-assisted development workflows
 - 🐳 **Containerization**: Docker ecosystem and orchestration
 - 🏠 **Home Lab**: NAS setup and self-hosted services
 - 🎨 **Frontend Learning**: Exploring Vue.js for full-stack capabilities
